@@ -1,6 +1,19 @@
 # Superstore-Sales-Analysis-and-Prediction
 This project analyzes retail sales data to uncover key trends, identify growth opportunities, and provide actionable insights. The goal is to deliver accurate sales forecasts, empowering the organization to make data-driven decisions.
 
+---
+
+## Table of Contents
+- [Overview](#overview)
+- [Project Objectives](#project-objectives)
+- [Tools & Technologies](#tools-&-technologies)
+- [Methodology](#methodology)
+- [Key Insights & Recommendations](#key-insights-&-recommendations)
+- [Deliverables](#deliverables)
+- [How to Reproduce This Analysis](#how-to-reproduce-this-analysis)
+- [Future Work](#future-work)
+
+
 ### Overview
 I analyzed the Superstore dataset to:
 
@@ -17,7 +30,7 @@ I analyzed the Superstore dataset to:
 5. Power BI Dashboard – Visualized key metrics for business stakeholders.
 6. Sales Forecasting – Used Linear Regression to predict future sales.
 
-### Tools & Technologies Used
+### Tools & Technologies
 - Excel – Data cleaning, pivot tables, and initial summaries.
 - PostgreSQL – Data storage and SQL queries.
 - Python (pandas, matplotlib, scikit-learn) – EDA, visualization, and forecasting.
