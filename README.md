@@ -52,10 +52,24 @@ Built an interactive dashboard with:
 - Used historical sales data to predict future trends.
 
 ### Key Insights & Recommendations 
-- 📌 Top-Performing Region: West had the highest sales; consider targeted marketing here. (WORK IN PROGRESS)
-- 📌 Best-Selling Category: Technology products yield high profits—expand inventory.
-- 📌 Seasonal Trends: Sales peak in Q4 (holiday season)—plan promotions accordingly.
-- 📌 Forecast: Expected 10% revenue growth—align inventory and staffing.
+#### 1. Sales Trend Analysis:
+- Revenue and profit grow consistently, peaking in March, September, and December, offering key opportunities for targeted strategies.
+  - Capitalize on peak profitability months (March, September, December) with targeted promotions and inventory planning.
+#### 2. State-Level Performance:
+- California leads in revenue and profit, while other states like Texas and New York show room for optimization.
+  -  Leverage California’s success as a best-practice model while optimizing strategies in underperforming states like Texas and North Dakota.
+#### 3. Performance Discrepancies:
+- North Dakota has the lowest revenue, while Texas, despite high revenue, has the lowest profit, signaling inefficiencies.
+  - Investigate Texas’ low profit despite high revenue and explore market development strategies for North Dakota.
+#### 4. Regional Performance: 
+- The Western region dominates in revenue and profit, while the South struggles with revenue and the Central region with profitability.
+  - Strengthen Western region sales strategies and improve Central region profitability through cost and pricing adjustments.
+#### 5. Segment Profitability:
+- The Consumer segment drives nearly 50% of profits, whereas Home Office lags at ~20%, presenting growth potential.
+  - Maintain Consumer segment dominance while expanding Home Office profitability through tailored offerings and marketing.
+#### 6. Category Profitability Analysis:
+- Furniture has poor profitability (6.4%) despite equal revenue share, while Technology (50.8%) and Office Supplies (42.8%) lead.
+  - Boost Furniture margins through cost optimization while maximizing Technology and Office Supplies profitability.
 
 ### Deliverables
 - ✅ Cleaned Superstore Dataset
