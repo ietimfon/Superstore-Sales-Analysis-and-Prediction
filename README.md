@@ -6,9 +6,9 @@ This project analyzes retail sales data to uncover key trends, identify growth o
 ## Table of Contents
 - [Overview](#overview)
 - [Project Objectives](#project-objectives)
-- [Tools & Technologies](#tools-&-technologies)
+- [Tools and Technologies](#tools-and-technologies)
 - [Methodology](#methodology)
-- [Key Insights & Recommendations](#key-insights-&-recommendations)
+- [Key Insights and Recommendations](#key-insights-and-recommendations)
 - [Deliverables](#deliverables)
 - [How to Reproduce This Analysis](#how-to-reproduce-this-analysis)
 - [Future Work](#future-work)
