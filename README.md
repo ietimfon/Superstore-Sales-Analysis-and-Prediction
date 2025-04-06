@@ -30,11 +30,11 @@ I analyzed the Superstore dataset to:
 5. Power BI Dashboard – Visualized key metrics for business stakeholders.
 6. Sales Forecasting – Used Linear Regression to predict future sales.
 
-### Tools & Technologies
-- Excel – Data cleaning, pivot tables, and initial summaries.
-- PostgreSQL – Data storage and SQL queries.
-- Python (pandas, matplotlib, scikit-learn) – EDA, visualization, and forecasting.
-- Power BI – Interactive dashboard for business insights.
+### Tools and Technologies
+- Excel: Data cleaning, pivot tables, and initial summaries.
+- PostgreSQL: Data storage and SQL queries.
+- Python (pandas, matplotlib, scikit-learn): EDA, visualization, and forecasting.
+- Power BI: Interactive dashboard for business insights.
 
 ### Methodology
 #### 1. Data Cleaning & Preparation (Excel)
@@ -64,7 +64,7 @@ Built an interactive dashboard with:
 #### 5. Sales Forecasting (Linear Regression in Python)
 - Used historical sales data to predict future trends.
 
-### Key Insights & Recommendations 
+### Key Insights and Recommendations 
 #### 1. Sales Trend Analysis:
 - Revenue and profit grow consistently, peaking in March, September, and December, offering key opportunities for targeted strategies.
   - Capitalize on peak profitability months (March, September, December) with targeted promotions and inventory planning.
