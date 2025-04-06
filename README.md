@@ -83,10 +83,6 @@ Built an interactive dashboard with:
 3. Open the Power BI file to explore the dashboard.
 
 ### Future Work
-🔹 Implement time-series forecasting (ARIMA, Prophet).
-🔹 Analyze customer segmentation for personalized marketing.
-🔹 Expand dashboard with real-time data integration.
-
-- Contributor: Ime Eti-mfon
-- Contact: ime.etimfon@gmail.com | linkedin.com/in/imeetimfon
-
+- 🔹 Implement time-series forecasting (ARIMA, Prophet).
+- 🔹 Analyze customer segmentation for personalized marketing.
+- 🔹 Expand dashboard with real-time data integration.
