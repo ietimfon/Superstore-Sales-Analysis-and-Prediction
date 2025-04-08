@@ -83,6 +83,11 @@ Built an interactive dashboard with:
 #### 6. Category Profitability Analysis:
 - Furniture has poor profitability (6.4%) despite equal revenue share, while Technology (50.8%) and Office Supplies (42.8%) lead.
   - Boost Furniture margins through cost optimization while maximizing Technology and Office Supplies profitability.
+ 
+![Monthly Revenue Trend](https://github.com/ietimfon/Superstore-Sales-Analysis-and-Prediction/raw/main/monthly_revenue_trend.png)
+
+![Monthly Profit Trend](https://github.com/ietimfon/Superstore-Sales-Analysis-and-Prediction/raw/main/monthly_profit_trend.png)
+
 
 ### Deliverables
 - ✅ Cleaned Superstore Dataset
